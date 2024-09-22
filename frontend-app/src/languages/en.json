@@ -1,0 +1,10 @@
+{
+    "NavbarMenu": {
+        "Menu": "Menu"
+    },
+    "Page": {
+        "Home" : "Home",
+        "Skill" : "Skill",
+        "About": "About"
+    }
+}
